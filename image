@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+	<body>
+		<div id="tfheader">
+		<form id="tfnewsearch" method="get" action="http://www.hp.com">
+		        <input type="text" class="tftextinput" name="q" size="31" maxlength="120"><input type="submit" value="search" class="tfbutton">
+		</form>
+		<div class="tfclear"></div>
+		</div>
+		<h1>Campus        Safety Action Guide</h1>
+		
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2{font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+p {line-height: 2}
+.bgimg, .bgimg2 {
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.bgimg {background-image: url("http://www.veritas.org/wp-content/uploads/2013/09/U-Penn.jpg")}
+.bgimg2 {background-image: url("/w3images/flowers.jpg")}
+</style>
+<body>
+
